@@ -1,0 +1,21 @@
+.main div img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.main div div img.stars {
+  width: 150px;
+  height: auto;
+}
+
+.content h2 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.header div div.active {
+  border: 1px solid black !important;
+  box-shadow: 0.2px 10px 10px rgba(0, 0, 0, 0.275);
+}

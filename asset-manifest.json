@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Multi-Step%20Form/static/css/main.c475ad57.css",
-    "main.js": "/Multi-Step%20Form/static/js/main.7f5dedeb.js",
-    "static/media/world_865060.png": "/Multi-Step%20Form/static/media/world_865060.8a9ddcf089e952606960.png",
-    "static/media/target_3176382.png": "/Multi-Step%20Form/static/media/target_3176382.d38ac20f1fafc89c44c6.png",
-    "static/media/businessman_13798997.png": "/Multi-Step%20Form/static/media/businessman_13798997.ea14b79a2d51ce6e9cc4.png",
-    "static/media/05.jpg": "/Multi-Step%20Form/static/media/05.b0c2cff5a53a5d2d7e75.jpg",
-    "static/media/teacher_11985539.png": "/Multi-Step%20Form/static/media/teacher_11985539.b4760d215d43577dd658.png",
-    "static/media/learning_4637873.png": "/Multi-Step%20Form/static/media/learning_4637873.b7db9898988dae30c800.png",
-    "static/media/student_3750011.png": "/Multi-Step%20Form/static/media/student_3750011.65739af2b04c37a15a39.png",
-    "static/media/9350.jpg": "/Multi-Step%20Form/static/media/9350.78154abe5592e58b299e.jpg",
-    "static/media/dad_3048150.png": "/Multi-Step%20Form/static/media/dad_3048150.b62536a55ffb81e9ce3f.png",
-    "static/media/man_4086679.png": "/Multi-Step%20Form/static/media/man_4086679.670496cfaab7c66270d4.png",
-    "static/media/impact_9072508.png": "/Multi-Step%20Form/static/media/impact_9072508.c0339ea8a2e32c239932.png",
-    "static/media/shuffle_5343853.png": "/Multi-Step%20Form/static/media/shuffle_5343853.c90dec56ca8140117fc0.png",
-    "static/media/path.jpg": "/Multi-Step%20Form/static/media/path.a069e4d723b027e0617a.jpg",
-    "index.html": "/Multi-Step%20Form/index.html",
-    "main.c475ad57.css.map": "/Multi-Step%20Form/static/css/main.c475ad57.css.map",
-    "main.7f5dedeb.js.map": "/Multi-Step%20Form/static/js/main.7f5dedeb.js.map"
+    "main.css": "/Multi-Step-Form/static/css/main.c475ad57.css",
+    "main.js": "/Multi-Step-Form/static/js/main.bdd0f899.js",
+    "static/media/world_865060.png": "/Multi-Step-Form/static/media/world_865060.8a9ddcf089e952606960.png",
+    "static/media/target_3176382.png": "/Multi-Step-Form/static/media/target_3176382.d38ac20f1fafc89c44c6.png",
+    "static/media/businessman_13798997.png": "/Multi-Step-Form/static/media/businessman_13798997.ea14b79a2d51ce6e9cc4.png",
+    "static/media/05.jpg": "/Multi-Step-Form/static/media/05.b0c2cff5a53a5d2d7e75.jpg",
+    "static/media/teacher_11985539.png": "/Multi-Step-Form/static/media/teacher_11985539.b4760d215d43577dd658.png",
+    "static/media/learning_4637873.png": "/Multi-Step-Form/static/media/learning_4637873.b7db9898988dae30c800.png",
+    "static/media/student_3750011.png": "/Multi-Step-Form/static/media/student_3750011.65739af2b04c37a15a39.png",
+    "static/media/9350.jpg": "/Multi-Step-Form/static/media/9350.78154abe5592e58b299e.jpg",
+    "static/media/dad_3048150.png": "/Multi-Step-Form/static/media/dad_3048150.b62536a55ffb81e9ce3f.png",
+    "static/media/man_4086679.png": "/Multi-Step-Form/static/media/man_4086679.670496cfaab7c66270d4.png",
+    "static/media/impact_9072508.png": "/Multi-Step-Form/static/media/impact_9072508.c0339ea8a2e32c239932.png",
+    "static/media/shuffle_5343853.png": "/Multi-Step-Form/static/media/shuffle_5343853.c90dec56ca8140117fc0.png",
+    "static/media/path.jpg": "/Multi-Step-Form/static/media/path.a069e4d723b027e0617a.jpg",
+    "index.html": "/Multi-Step-Form/index.html",
+    "main.c475ad57.css.map": "/Multi-Step-Form/static/css/main.c475ad57.css.map",
+    "main.bdd0f899.js.map": "/Multi-Step-Form/static/js/main.bdd0f899.js.map"
   },
   "entrypoints": [
     "static/css/main.c475ad57.css",
-    "static/js/main.7f5dedeb.js"
+    "static/js/main.bdd0f899.js"
   ]
 }
